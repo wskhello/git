@@ -1,1 +1,3 @@
 回退到某个历史提交:git reset --hard 哈希id
+撤销顶部第一条记录:git reset --hard~1
+合并分支到main当前支路:git merge 分支名
