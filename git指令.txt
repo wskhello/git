@@ -1,0 +1,1 @@
+回退到某个历史提交:git reset --hard 哈希id
